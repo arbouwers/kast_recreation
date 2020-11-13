@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  background-image: url('/assets/bg-img.jpg');
+  background-image: url('assets/bg-img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 60px;
